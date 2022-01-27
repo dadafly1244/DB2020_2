@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyAolq9ku2eOi69tH9rhsMDkELmp4GIe9yc" >//키를 발급받아 사용하세요</script>
+<script type="text/javascript" src="http://maps.google.com/키발급받아사용" >//키를 발급받아 사용하세요</script>
 <style>
 #map_ma {width:100%; height:400px; clear:both; border:solid 1px red;}
 </style>
